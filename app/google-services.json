@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1068414193641",
+    "firebase_url": "https://getzopop-app.firebaseio.com",
+    "project_id": "getzopop-app",
+    "storage_bucket": "getzopop-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068414193641:android:a107f9fdb330e1781c4578",
+        "android_client_info": {
+          "package_name": "com.getzopop.zopopcustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068414193641-c1e490u5hj1bcgqu9aprpjlj22fkd0o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdc0jbp9keR2fOH5ILccljx0HUCEINKlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068414193641-c1e490u5hj1bcgqu9aprpjlj22fkd0o5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
